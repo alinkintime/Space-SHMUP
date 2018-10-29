@@ -15,7 +15,6 @@ public class Hero : MonoBehaviour
     public GameObject projectilePrefab;
     public float projectileSpeed;
 
-
     [Header("Set Dynamically")]
     [SerializeField]
     private float _shieldLevel = 4;
